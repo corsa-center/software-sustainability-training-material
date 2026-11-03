@@ -34,12 +34,19 @@
   * Various regional hubs, e.g., [Great Lakes Regional I-Corps Hub](https://greatlakesicorps.org), that offer training and resources
 * [S<sup>3</sup> (Sustainable Scientific Software) School](https://indico.in2p3.fr/event/36319/) - providing good coding practices to develop better software for your research
   * [Lectures](https://s3-school.github.io/s3-2026-lectures/)
-* ... working
+* [UKRI Digital Research Technical Professional Skills NetworkPlus](https://www.ukri.org/opportunity/ukri-digital-research-technical-professional-skills-networkplus/) projects - bringing together disciplines, sectors, and domains to address cross-cutting challenges related to digital RTP skills and careers
+  * [DisCouRSE](https://discourse-network.github.io/) - developing a Community of Leaders in Digital Research
+  * [SCALE-UP Network](https://scale-up.ac.uk/) - supporting the development of community, careers and skills for technical professionals and researchers working with research software, research data and research computing infrastructure
+  * [Mathematical Innovators in the Digital Space (MInDs)](https://www.inra.ac.uk) - developing the “Innovation Research Associate” (InRA) professional career space for impact-driven mathematical sciences
+  * [Connecting Hub for Advancing the RTP Talent Enabling DRI (CHARTED)](https://drtp-skills.ac.uk/about/charted/)
+  * [Careers and Skills for Data-driven Research (CaSDaR)](https://casdar.ac.uk) - enhancing the management, recognition, and reuse of research data across all academic disciplines
+  * [DRIFT (DRI-focussed training for research facilitators and teams)](https://drtp-skills.ac.uk/about/drift/)
 * [The Turing Way](https://book.the-turing-way.org/) - handbook to reproducible, ethical and collaborative data science
 * [World Data System Sustainability Summit 2023: Outcomes and Lessons Learned](https://doi.org/10.5281/zenodo.8383658)  
 * [Princeton's RSEs' handbook](https://handbook.rse.princeton.edu) - a living document that explains the what and why of sustainable research software
   * [Section on software sustainability](https://handbook.rse.princeton.edu/sustainability.html)
     * Note: as of 3 Nov 2026, the sustainability part is mostly characteristics, rather than guidance. Best practices to realize the characteristics are under review internally, and will be released in the future.
+* ...
 
 
 Education & training communities
