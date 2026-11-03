@@ -35,6 +35,7 @@
 * [S<sup>3</sup> (Sustainable Scientific Software) School](https://indico.in2p3.fr/event/36319/) - providing good coding practices to develop better software for your research
   * [Lectures](https://s3-school.github.io/s3-2026-lectures/)
 * ... working
+* [The Turing Way](https://book.the-turing-way.org/) - handbook to reproducible, ethical and collaborative data science
 * [World Data System Sustainability Summit 2023: Outcomes and Lessons Learned](https://doi.org/10.5281/zenodo.8383658)  
 * [Princeton's RSEs' handbook](https://handbook.rse.princeton.edu) - a living document that explains the what and why of sustainable research software
   * [Section on software sustainability](https://handbook.rse.princeton.edu/sustainability.html)
