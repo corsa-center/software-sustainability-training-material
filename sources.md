@@ -46,6 +46,7 @@
 * [Princeton's RSEs' handbook](https://handbook.rse.princeton.edu) - a living document that explains the what and why of sustainable research software
   * [Section on software sustainability](https://handbook.rse.princeton.edu/sustainability.html)
     * Note: as of 3 Nov 2026, the sustainability part is mostly characteristics, rather than guidance. Best practices to realize the characteristics are under review internally, and will be released in the future.
+* [Research Software Alliance blog posts](https://rogue-scholar.org/communities/researchsoft/records?q=&l=list&p=1&s=10&sort=newest)
 * ...
 
 
