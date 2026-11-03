@@ -30,7 +30,15 @@
   * [BSSw (Better Scientific Software)](https://bssw.io)
 * [SGX3/SGCI training](https://sciencegateways.org) - empowers the science gateways community to advance the state of the art in gateway development and operations
   * Offers training in business development, sustainability, but as of 3 Nov 2026, no public material is available
-
+* [I-Corps](https://www.nsf.gov/funding/initiatives/i-corps) - an immersive, entrepreneurial training program that facilitates the transformation of invention to impact. This seven-week experiential training program prepares scientists and engineers to extend their focus beyond the university laboratory — accelerating the economic and societal benefits of NSF-funded and other basic research projects that are ready to move toward commercialization.
+  * Various regional hubs, e.g., [Great Lakes Regional I-Corps Hub](https://greatlakesicorps.org), that offer training and resources
+* [S<sup>3</sup> (Sustainable Scientific Software) School](https://indico.in2p3.fr/event/36319/) - providing good coding practices to develop better software for your research
+  * [Lectures](https://s3-school.github.io/s3-2026-lectures/)
+* ... working
+* [World Data System Sustainability Summit 2023: Outcomes and Lessons Learned](https://doi.org/10.5281/zenodo.8383658)  
+* [Princeton's RSEs' handbook](https://handbook.rse.princeton.edu) - a living document that explains the what and why of sustainable research software
+  * [Section on software sustainability](https://handbook.rse.princeton.edu/sustainability.html)
+    * Note: as of 3 Nov 2026, the sustainability part is mostly characteristics, rather than guidance. Best practices to realize the characteristics are under review internally, and will be released in the future.
 
 
 Education & training communities
