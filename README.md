@@ -18,6 +18,9 @@ It contains
       * Source(s) of material
 * A list of sources of material
 
+Sections include:
+  * [Working with (computing) facilities](facilities.md)
+
 
 ## About this repository
 
