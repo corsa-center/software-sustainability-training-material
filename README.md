@@ -1,5 +1,7 @@
-# software-sustainability-training-material
-A place to collect and share and collaborate on material that can be used for software sustainability training.
+# Software sustainability training material
+This repository is intended to be a place to collect and share and collaborate on material that can be used for software sustainability training.
+
+## Introduction 
 
 This repo was initially developed by the CORSA project, primarily [Daniel S. Katz](https://github.com/danielskatz).
 
