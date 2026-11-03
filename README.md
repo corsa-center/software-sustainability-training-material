@@ -13,9 +13,9 @@ It's intended for multiple audiences:
 It contains
 * A way to organize material that can be used to train or learn about software sustainability, as
   * Section
-    * Area
-      * Topics
-      * Source(s) of material
+    * Areas within the section
+      * Topic(s) within the area
+      * Source(s) of material for the area
 * [A list of sources of material](sources.md)
 
 Sections include:
