@@ -20,8 +20,9 @@ It contains
       * Source(s) of material for the area
 * [A list of sources of material](sources.md)
 
-Sections include:
+Sections:
   * [1. Introduction to software sustainability](intro.md)
+  * ... (working)
   * [Working with (computing) facilities](facilities.md)
 
 
