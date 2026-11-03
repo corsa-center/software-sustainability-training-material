@@ -10,6 +10,8 @@ It's intended for multiple audiences:
 * people interested in learning about software sustainability
 * people interested in researching software sustainability
 
+These audiences could include OSPOs/[CURIOSS](https://curioss.org), RSE groups, [The Carpentries](https://carpentries.org), technology transfer offices, entrepreneur programs, etc.
+
 It contains
 * A way to organize material that can be used to train or learn about software sustainability, as
   * Section
