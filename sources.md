@@ -1,6 +1,6 @@
 # Sources of material
 
-(Note: This material is not very well-organized currently, and would benefit from reorganization. Additional content/links are also welcome.)
+(_Note for contributors: This material is not very well-organized currently, and would benefit from reorganization. Additional content/links are also welcome._)
 
 * [CSCCE/Birdaro](https\://www\.birdaro.org/) - community-focused, cohort training 
   * [Announcement](https://www.cscce.org/2025/07/01/the-birdaro-training-program-supporting-open-source-leaders/)
