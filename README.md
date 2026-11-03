@@ -16,7 +16,7 @@ It contains
     * Area
       * Topics
       * Source(s) of material
-* A list of sources of material
+* [A list of sources of material](sources.md)
 
 Sections include:
   * [Working with (computing) facilities](facilities.md)
