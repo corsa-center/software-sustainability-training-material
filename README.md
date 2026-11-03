@@ -21,6 +21,7 @@ It contains
 * [A list of sources of material](sources.md)
 
 Sections include:
+  * [Introduction to software sustainability](intro.md)
   * [Working with (computing) facilities](facilities.md)
 
 
