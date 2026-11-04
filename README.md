@@ -22,6 +22,7 @@ It contains
 
 Sections:
   * [1. Introduction to software sustainability](intro.md)
+  * [2. Community](community.md)
   * ... (working)
   * [Working with (computing) facilities](facilities.md)
 
