@@ -51,7 +51,9 @@ If you use this work, please credit/cite it and the [authors](./AUTHORS.md).
 4. Push to your fork and [submit a pull request](https://github.com/corsa-center/software-sustainability-training-material/compare)
 5. Pat yourself on the back and wait for your pull request to be reviewed and merged.
 
+## Acknowledgements
 
+This work is supported by the U.S. Department of Energy, Office of Science, Office of Advanced Scientific Computing Research, Next-Generation Scientific Software Technologies program, under contract number DE-AC05-00OR22725.
 
 
 
