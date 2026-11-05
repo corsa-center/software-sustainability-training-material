@@ -26,6 +26,7 @@ Sections:
   * ... (working)
   * [Working with (computing) facilities](facilities.md)
 
+We know it's not complete, but we hope it's useful as is, and that others will improve it by adding more topics and resources, fixing any errors, trying it out and reporting what is learned, etc.
 
 ## About this repository
 
