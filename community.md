@@ -1,8 +1,6 @@
 
 # 2. Community
 
-(_this document is still being edited_)
-
 2.1. Community engagement & Community management
 
   * Topics:  
@@ -10,8 +8,8 @@
     * Community management doesn't just happen but should be intentional  
     * Community engagement as a series of levels and actions that move a person from one level to the next  
   * Material:  
-    * CSCCE material ([https\://www\.cscce.org/resources/cpm/](https://www.cscce.org/resources/cpm/) & [https\://doi.org/10.5281/zenodo.3997802](https://doi.org/10.5281/zenodo.3997802))  
-    * some Mozilla/GitHub material ([https\://github.com/mozilla/open-leadership-training-series](https://github.com/mozilla/open-leadership-training-series))  
+    * CSCCE [resources](https://www.cscce.org/resources/cpm/) & [report](https://doi.org/10.5281/zenodo.3997802)
+    * [Mozilla's Best Practices Working Open](https://github.com/mozilla/open-leadership-training-series)
 
 2.2. OSS foundations
 
@@ -24,13 +22,13 @@
     * Examples / case studies from project/foundation pairings  
   * Material  
     * Existing CORSA website contents  
-      * [https\://corsa.center/\#foundations](https://corsa.center/#foundations)  
-      * [https\://corsa.center/\#benefits](https://corsa.center/#benefits)  
-      * [https\://corsa.center/foundations/benefits.html](https://corsa.center/foundations/benefits.html)  
+      * [Information about foundations and what it takes to apply and join](https://corsa.center/#foundations)
+      * [High level benefits of joining an open source foundation](https://corsa.center/#benefits)
+      * [Detailed benefits of joining an open source foundation](https://corsa.center/foundations/benefits.html)
     * Talks from foundations  
-      * HPSF 2026 talk from Todd Gamblin \- [https\://docs.google.com/presentation/d/1y3d2zVAFTJEbJGwvVPPdj33Kc2Aw9rB2/edit?usp=share\_link\&ouid=110386689225117375572\&rtpof=true\&sd=true](https://docs.google.com/presentation/d/1y3d2zVAFTJEbJGwvVPPdj33Kc2Aw9rB2/edit?usp=share_link&ouid=110386689225117375572&rtpof=true&sd=true)  
-      * Spack talk (at PASC24) from Todd Gamblin \- [https\://docs.google.com/presentation/d/1sOJybzu4rWEpuYeEHTQxF6ybGyR3Jc8a/edit?usp=share\_link\&ouid=110386689225117375572\&rtpof=true\&sd=true](https://docs.google.com/presentation/d/1sOJybzu4rWEpuYeEHTQxF6ybGyR3Jc8a/edit?usp=share_link&ouid=110386689225117375572&rtpof=true&sd=true)  
-      * Open Source for HPC libraries talk (2026) from Cristian Trott \- [https\://docs.google.com/presentation/d/1LrZgcNDBOreU0CdhbqaAN8fTeTlm0fUf/edit?usp=share\_link\&ouid=110386689225117375572\&rtpof=true\&sd=true](https://docs.google.com/presentation/d/1LrZgcNDBOreU0CdhbqaAN8fTeTlm0fUf/edit?usp=share_link&ouid=110386689225117375572&rtpof=true&sd=true)  
+      * [HPSF 2026 talk from Todd Gamblin](https://docs.google.com/presentation/d/1y3d2zVAFTJEbJGwvVPPdj33Kc2Aw9rB2/edit?usp=share_link&ouid=110386689225117375572&rtpof=true&sd=true)
+      * [Spack talk (at PASC24) from Todd Gamblin](https://docs.google.com/presentation/d/1sOJybzu4rWEpuYeEHTQxF6ybGyR3Jc8a/edit?usp=share_link&ouid=110386689225117375572&rtpof=true&sd=true)
+      * [Open Source for HPC libraries talk (2026) from Cristian Trott](https://docs.google.com/presentation/d/1LrZgcNDBOreU0CdhbqaAN8fTeTlm0fUf/edit?usp=share_link&ouid=110386689225117375572&rtpof=true&sd=true)
 
 2.3. Conflict resolution  
 
@@ -42,9 +40,11 @@
     * Living with conflicts  
   * Material:  
     * Tons of material, perhaps not specific to software projects? \- need to check  
-    * CSCCE material ([https\://www\.cscce.org/resources/cpm/](https://www.cscce.org/resources/cpm/) & [https\://doi.org/10.5281/zenodo.3997802](https://doi.org/10.5281/zenodo.3997802))  
-    * some Mozilla/GitHub material ([https\://github.com/mozilla/open-leadership-training-series](https://github.com/mozilla/open-leadership-training-series))  
-* Setting norms  
+    * CSCCE [resources](https://www.cscce.org/resources/cpm/) & [report](https://doi.org/10.5281/zenodo.3997802)
+    * [Mozilla's Best Practices Working Open](https://github.com/mozilla/open-leadership-training-series)
+
+2.4. Setting norms
+
   * Topics  
     * Open (or defined) practices in a project  
     * Open (or defined) leadership  
@@ -53,13 +53,13 @@
       * Putting into place  
       * Dealing with possible violations  
   * Material  
-    * CSCCE material ([https\://www\.cscce.org/resources/cpm/](https://www.cscce.org/resources/cpm/) & [https\://doi.org/10.5281/zenodo.3997802](https://doi.org/10.5281/zenodo.3997802))  
-    * some Mozilla/GitHub material ([https\://github.com/mozilla/open-leadership-training-series](https://github.com/mozilla/open-leadership-training-series))  
-    * [http\://contributor-covenant.org/](http://contributor-covenant.org/)  
-    * [https\://opensource.guide/code-of-conduct/](https://opensource.guide/code-of-conduct/)  
-    * [https\://github.com/corsa-center/oss-documents\#codes-of-conduct](https://github.com/corsa-center/oss-documents#codes-of-conduct)  
+    * CSCCE [resources](https://www.cscce.org/resources/cpm/) & [report](https://doi.org/10.5281/zenodo.3997802)
+    * [Mozilla's Best Practices Working Open](https://github.com/mozilla/open-leadership-training-series)
+    * [Contributor Covenant](http://contributor-covenant.org/) - the most widely adopted open source code of conduct in the world
+    * [GitHub's Open Source Guides' material on Codes of Conduct](https://opensource.guide/code-of-conduct/)
+    * [CORSA's collected pointers to Code of Conduct information](https://github.com/corsa-center/oss-documents#codes-of-conduct)
 
-2.4. Culture  
+2.5. Culture  
 
   * Topics  
     * What is culture  
@@ -67,9 +67,10 @@
     * How is it measured  
     * How is it changed  
   * Material  
-    * CSCCE material ([https\://www\.cscce.org/resources/cpm/](https://www.cscce.org/resources/cpm/) & [https\://doi.org/10.5281/zenodo.3997802](https://doi.org/10.5281/zenodo.3997802))  
-    * some Mozilla/GitHub material ([https\://github.com/mozilla/open-leadership-training-series](https://github.com/mozilla/open-leadership-training-series))  
-* Community health assessment & how to use it  
+    * CSCCE [resources](https://www.cscce.org/resources/cpm/) & [report](https://doi.org/10.5281/zenodo.3997802)
+    * [Mozilla's Best Practices Working Open](https://github.com/mozilla/open-leadership-training-series)
+
+2.6. Community health assessment & how to use it
   * Topics  
     * What metrics exist  
     * What do the mean  
@@ -85,7 +86,7 @@
     * CASS [Metrics working group](https://cass.community/working-groups/metrics.html)
     * CASS [Impact framework working group](https://cass.community/working-groups/impact-framework.html)  
 
-2.5. Outreach & training  
+2.7. Outreach & training  
 
   * Topics  
     * Aim of training  
@@ -103,7 +104,7 @@
     * base4NFDI's [23 TrainingThings for Writing Learning Objectives](https://doi.org/10.5281/zenodo.15043810)  
     * [Diataxis framework](https://github.com/LifeChef/Diataxis_Reference)  
 
-2.6. Working with user facilities / computing centers 
+2.8. Working with user facilities / computing centers 
 
   * Topics  
     * How to get software mentioned in a facility's docs  
