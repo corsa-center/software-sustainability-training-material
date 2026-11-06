@@ -112,5 +112,5 @@
     * How to get the facility to talk about the software when they have users who could benefit from it  
     * How to coordinate support for people who have problems with the software on the facility's system  
   * Material  
-    * See [facilities questions and answers](facilities.md)
+    * See [facilities questions and answers in Section 6](facilities.md)
 
