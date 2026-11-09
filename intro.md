@@ -7,7 +7,8 @@ Scene setting re research software & research, software collapse, sustainability
 1.1. What is research software  
   * Topics  
     * use definition from p. 16 of Defining Research Software paper
-    * discuss agreement/disagreement & other options 
+    * discuss agreement/disagreement & other options
+    * includes scientific software as a key part, and also includes non-scientific software used in research, such as in humanities 
   * Material  
     * [paper: "Defining Research Software: a controversial discussion"](https://doi.org/10.5281/zenodo.5504016)
     * [Dan's slides](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Katz%2C%20Daniel%20S.%22&f=resource_type%3Apresentation&l=list&p=1&s=10&sort=newest)  
@@ -32,12 +33,16 @@ Scene setting re research software & research, software collapse, sustainability
 
 1.4. What is software sustainability  
   * Topics  
-    * Work needs to be done to avoid software collapse  
+    * Introduce software lifecycle
+    * Work needs to be done to avoid software collapse
+    * Work needs to be done to address bugs
+    * Work needs to be done to add new features as community needs change  
     * Work needs resources  
     * Want to minimize work and maximize resources until they balance  
   * Material  
     * [Dan's slides](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Katz%2C%20Daniel%20S.%22&f=resource_type%3Apresentation&l=list&p=1&s=10&sort=newest)
-    * [Dan's blog post](https://danielskatzblog.wordpress.com/2016/09/13/defining-software-sustainability/)  
+    * [Dan's blog post](https://danielskatzblog.wordpress.com/2016/09/13/defining-software-sustainability/)
+    * (Research Software Lifecycles and Stages)[https://doi.org/10.14279/eceasst.v85.2693] 
     * papers from others  
 
 1.5. Stakeholders - what groups are important here  
