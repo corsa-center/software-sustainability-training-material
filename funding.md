@@ -58,3 +58,6 @@
 
   * [A guide to the best revenue models and funding sources for your digital resources, Nancy Maron, Ithaka S+R, March 2014](http://www.sr.ithaka.org/wp-content/uploads/2015/08/Jisc_Report_032614.pdf)  
   * [Framework for Post-Grant Sustainability Planning, Ithaka S+R, 2015](https://sr.ithaka.org/wp-content/uploads/2015/08/Sustainability_Planning_Tool.pdf)
+
+[up](https://github.com/corsa-center/software-sustainability-training-material) | [next: Software engineering](se.md)
+
