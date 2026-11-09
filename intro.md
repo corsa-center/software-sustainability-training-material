@@ -57,4 +57,4 @@ Scene setting re research software & research, software collapse, sustainability
 1.6. Outline of rest of course  
   * Build to order, based on particular instance of course
 
-[up](../) | [next: Governance](governance.md)
+[up](https://github.com/corsa-center/software-sustainability-training-material) | [next: Governance](governance.md)
