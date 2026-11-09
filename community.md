@@ -1,7 +1,7 @@
 
-# 2. Community
+# 3. Community
 
-2.1. Community engagement & Community management
+3.1. Community engagement & Community management
 
   * Topics:  
     * The role and importance of community in both doing work and as a signal for possible uptake of the project  
@@ -11,7 +11,7 @@
     * CSCCE [resources](https://www.cscce.org/resources/cpm/) & [report](https://doi.org/10.5281/zenodo.3997802)
     * [Mozilla's Best Practices Working Open](https://github.com/mozilla/open-leadership-training-series)
 
-2.2. OSS foundations
+3.2. OSS foundations
 
   * Topics  
     * What OSS foundations do  
@@ -30,7 +30,7 @@
       * [Spack talk (at PASC24) from Todd Gamblin](https://docs.google.com/presentation/d/1sOJybzu4rWEpuYeEHTQxF6ybGyR3Jc8a/edit?usp=share_link&ouid=110386689225117375572&rtpof=true&sd=true)
       * [Open Source for HPC libraries talk (2026) from Cristian Trott](https://docs.google.com/presentation/d/1LrZgcNDBOreU0CdhbqaAN8fTeTlm0fUf/edit?usp=share_link&ouid=110386689225117375572&rtpof=true&sd=true)
 
-2.3. Conflict resolution  
+3.3. Conflict resolution  
 
   * Topics  
     * Identifying conflicts  
@@ -43,7 +43,7 @@
     * CSCCE [resources](https://www.cscce.org/resources/cpm/) & [report](https://doi.org/10.5281/zenodo.3997802)
     * [Mozilla's Best Practices Working Open](https://github.com/mozilla/open-leadership-training-series)
 
-2.4. Setting norms
+3.4. Setting norms
 
   * Topics  
     * Open (or defined) practices in a project  
@@ -59,7 +59,7 @@
     * [GitHub's Open Source Guides' material on Codes of Conduct](https://opensource.guide/code-of-conduct/)
     * [CORSA's collected pointers to Code of Conduct information](https://github.com/corsa-center/oss-documents#codes-of-conduct)
 
-2.5. Culture  
+3.5. Culture  
 
   * Topics  
     * What is culture  
@@ -70,7 +70,7 @@
     * CSCCE [resources](https://www.cscce.org/resources/cpm/) & [report](https://doi.org/10.5281/zenodo.3997802)
     * [Mozilla's Best Practices Working Open](https://github.com/mozilla/open-leadership-training-series)
 
-2.6. Community health assessment & how to use it
+3.6. Community health assessment & how to use it
   * Topics  
     * What metrics exist  
     * What do the mean  
@@ -86,7 +86,7 @@
     * CASS [Metrics working group](https://cass.community/working-groups/metrics.html)
     * CASS [Impact framework working group](https://cass.community/working-groups/impact-framework.html)  
 
-2.7. Outreach & training  
+3.7. Outreach & training  
 
   * Topics  
     * Aim of training  
@@ -104,7 +104,7 @@
     * base4NFDI's [23 TrainingThings for Writing Learning Objectives](https://doi.org/10.5281/zenodo.15043810)  
     * [Diataxis framework](https://github.com/LifeChef/Diataxis_Reference)  
 
-2.8. Working with user facilities / computing centers 
+3.8. Working with user facilities / computing centers 
 
   * Topics  
     * How to get software mentioned in a facility's docs  
