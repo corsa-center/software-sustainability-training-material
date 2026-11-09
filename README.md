@@ -22,8 +22,8 @@ It contains
 
 Sections:
   * [1. Introduction to software sustainability](intro.md)
-  * [2. Community](community.md)
-  * [3. Governance](governance.md)
+  * [2. Governance](governance.md)
+  * [3. Community](community.md)
   * [4. Funding](funding.md)
   * [5. Software engineering](se.md)
   * [6. Working with (computing) facilities](facilities.md)
