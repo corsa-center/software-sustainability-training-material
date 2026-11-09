@@ -1,6 +1,6 @@
-# 3. Governance
+# 2. Governance
 
-3.1. Governance and roles
+2.1. Governance and roles
 
   * Topics  
     * Charter/Mission  
@@ -14,7 +14,7 @@
     * [Mozilla's Best Practices Working Open](https://github.com/mozilla/open-leadership-training-series)
     * [CORSA's collected pointers to governance information](https://github.com/corsa-center/oss-documents#governance)  
 
-3.2. Defining roles, leadership
+2.2. Defining roles, leadership
 
   * Topics  
     * Roles (for people, other roles within the project discussed in   
@@ -26,7 +26,7 @@
     * [Mozilla's Best Practices Working Open](https://github.com/mozilla/open-leadership-training-series)
     * [CORSA's collected pointers to governance information](https://github.com/corsa-center/oss-documents#governance)  
 
-3.3. Project structure
+2.3. Project structure
  
   * Topics  
     * not yet defined
@@ -36,21 +36,21 @@
     * [CORSA's collected pointers to governance information](https://github.com/corsa-center/oss-documents#governance)  
     * [Greg Wilson's Managing Research Software Projects](https://third-bit.com/mrsp/)  
 
-3.4. Business skills / creating an organization  
+2.4. Business skills / creating an organization  
 
   * Topics  
     * not yet defined  
   * Material  
     * [NSF's I-Corps](https://www.nsf.gov/funding/initiatives/i-corps)  
 
-3.5. Organizational health considerations  
+2.5. Organizational health considerations  
 
   * Topics  
     * not yet defined
   * Materials  
     * [CHAOSS](https://www.chaoss.community) material  
 
-3.6. Licensing and IP  
+2.6. Licensing and IP  
 
   * Topics  
     * Who owns the project and its assets  
@@ -67,7 +67,7 @@
     * [OSI licenses](https://opensource.org/licenses)  
     * [CC licenses](https://creativecommons.org/cc-licenses/)  
 
-3.7. Project practices  
+2.7. Project practices  
 
   * Topics  
     * not yet defined
@@ -76,7 +76,7 @@
     * [Mozilla's Best Practices Working Open](https://github.com/mozilla/open-leadership-training-series)
     * Some foundation materials  
 
-3.8. Roadmap  
+2.8. Roadmap  
 
   * Topics  
     * not yet defined
