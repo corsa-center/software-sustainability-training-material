@@ -9,7 +9,7 @@
     * Membership, if appropriate and needed, and if so, joining and leaving criteria and processes  
     * How governance is documented  
     * How governance can be changed
-    * Which aspects are applicable to all projects, and which are only applicable to projects of a certain size
+    * Which aspects are applicable to all projects, and which are only applicable to projects with certain characteristics: e.g., project size, community size, foundation membership, etc.
   * Material  
     * CSCCE [resources](https://www.cscce.org/resources/cpm/) & [report](https://doi.org/10.5281/zenodo.3997802)
     * [Mozilla's Best Practices Working Open](https://github.com/mozilla/open-leadership-training-series)
@@ -22,7 +22,7 @@
       * Leaders, contributors, maintainers, developers, support, training, outreach, community management, etc.  
     * What each does  
     * How someone takes on a role, is recognized, stops  
-    * Which roles are applicable to all projects, and which are only applicable to projects of a certain size
+    * Which roles are applicable to all projects, and which are only applicable to projects with certain characteristics: e.g., project size, community size, foundation membership, etc.
   * Material  
     * CSCCE [resources](https://www.cscce.org/resources/cpm/) & [report](https://doi.org/10.5281/zenodo.3997802)
     * [Mozilla's Best Practices Working Open](https://github.com/mozilla/open-leadership-training-series)
