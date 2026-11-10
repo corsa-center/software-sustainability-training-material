@@ -3,7 +3,7 @@ This repository is intended to be a place to collect and share and collaborate o
 
 ## Introduction 
 
-This repo was initially developed by the [CORSA](https://corsa.center) project, primarily [Daniel S. Katz](https://github.com/danielskatz), with other authors/contributors to be indicated in [AUTHORS.md](AUTHORS.md).
+This repo was initially developed by [Daniel S. Katz](https://github.com/danielskatz) as part of the [CORSA](https://corsa.center) project, with all authors/contributors indicated in [AUTHORS.md](AUTHORS.md).
 
 It's intended for multiple audiences:
 * people interested in developing or delivering training on software sustainability
