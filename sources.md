@@ -47,6 +47,8 @@
   * [Section on software sustainability](https://handbook.rse.princeton.edu/sustainability.html)
     * Note: as of 3 Nov 2026, the sustainability part is mostly characteristics, rather than guidance. Best practices to realize the characteristics are under review internally, and will be released in the future.
 * [Research Software Alliance blog posts](https://rogue-scholar.org/communities/researchsoft/records?q=&l=list&p=1&s=10&sort=newest)
+*  [A draft curriculum for managing Research Software Development](https://doi.org/10.5281/zenodo.17035678)
+*  [Advocacy for Sustainable Research course](https://kirstypringle.github.io/advocacy-for-sustainable-research/green-change/green-change/) and the related [publication](https://arxiv.org/abs/2608.18601) 
 * ...
 
 
